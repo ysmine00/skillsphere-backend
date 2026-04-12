@@ -212,7 +212,3 @@ Email domain validation (`@aui.ma`) is enforced at the database level via a `CHE
 
 - [skillsphere-frontend](https://github.com/ysmine00/skillsphere-frontend) — React frontend
 
----
-
-**Developer:** Yasmine Kouch  
-**GitHub:** [@ysmine00](https://github.com/ysmine00)
